@@ -1,10 +1,5 @@
-tensorflow
-keras
-numpy
-pillow
-scipy
-h5py
+detecto
 matplotlib
-opencv-python
-keras-resnet
-imageai
+numpy
+torch
+simple_image_download
